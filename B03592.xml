@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The gloriovs and miracvlvos [sic] battell at York</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03592</idno>
+            <idno type="STC">Wing G868A</idno>
+            <idno type="STC">ESTC R177435</idno>
+            <idno type="EEBO-CITATION">52529156</idno>
+            <idno type="OCLC">ocm 52529156</idno>
+            <idno type="VID">178798</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03592)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178798)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2770:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The gloriovs and miracvlvos [sic] battell at York</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>by James Lindesay,</publisher>
+                  <pubPlace>Printed at Edinburgh :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Consists of two letters, purportedly from Scots forces at York.</note>
+                  <note>Imperfect: stained with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Marston Moor, Battle of, England, 1644 --  Early works to 1800.</term>
+               <term>York (England) --  History --  Siege, 1644 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  York --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:178798:1"/>
+            <!-- PDF PAGE 17 -->
+            <head>THE GLORIOVS AND MIRACVLVOS BATTELL AT YORK.</head>
+            <head type="sub">This Letter beeing directed to a Noble and honourable Lord, from the Scots Leagour lying at <hi>York.</hi>
+            </head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe are to give your Lordſhip accompt of the victo<g ref="char:EOLhyphen"/>rie. It hath pleaſed GOD to beſtow on us far above our deſerts. The way was thus, Prince <hi>Rupert</hi> advan<g ref="char:EOLhyphen"/>cing for <hi>York,</hi> we brake up our beligering to meet him, having an order (which wee intercepted) from the <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing, that nothing but impoſſibilities ſhould ſtay him from beating <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <hi>Scots:</hi> As we were marching, he put the River of <hi>Ewes</hi> betwixt us, ſo that he came to <hi>York</hi> without any ſtop, ſo that we lay foure myles there-from, and on the morrow brake up the march to <hi>Todcaſter</hi> to attend his retreat.</p>
+            <p>Our Foot having the way, we were not one myle from it, the Alarme was ſent us by our Horſe, that Prince <hi>Rupert</hi> was with his whole armie advancing, which made us preſently march back to the bounds we had left, where we found him drawing up in a plaine field three myles of length and breadth; the fairer for ſuch uſe I had not ſeene <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>England,</hi> we finding him ſo neer, and no poſſibilitie to have our <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in two houres, keeped the advantage of a ſleeke, and the hills <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> our Horſe, till the Foot as they came up was put in order: In <gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e meane time wee advanced our Canon, and entred to play on them on the left wing; which made them a little to move; which they perceiving, brought up theirs, and gave us the like. This continued <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> long, when it was reſolved wee ſhould advance downe the hill <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a great field of corne, to a ditch they had in poſſeſsion, <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> it pleaſed God ſo to proſper, they were put from it, ſo that the ſervice went on verie hote on all ſides: We loſing on the right Wing, and gaining on the left, they that fought ſtood extraordinar well to it; whereof my Lord <hi>Lindeſays</hi> Briggad beeing commanded by himſelf, was one. Theſe Briggads that failyied of the Vane were preſently ſupplied by <hi>Caſsels, Cowper, Dumfermling,</hi> and ſome of <hi>Clydiſdailes</hi> Regiment, who were on the battell, and gained what they had loſt, and made themſelves maſter of the Canon was next to them, and tooke Sir <hi>Charles Lewcas</hi> Leivetenant Generall of their Horſe priſoner: Theſe that ran away ſhew themſelves moſt baſely. I com<g ref="char:EOLhyphen"/>manding the Battel, was on the head of your Lordſhips Regiment and <hi>Bucleuches;</hi> but they carried themſelves not ſo as I could have wiſhed, neither could I prevaile with them: For theſe that fled, never came to charge with the enemie, but were ſo poſſeſt with a panatick fear, that they ran for an example to others, and no enemie following them, which gave the enemie to charge them, they intended not, &amp; they had only the loſſe. Theſe that fought, God preſerved them miraculouſly with no loſſe, we have only the Lord <hi>Dudup</hi> priſoner, and Lievete<g ref="char:EOLhyphen"/>nant Collonel <hi>Briſon</hi> is killed, two Captaines, and ſome Souldiers: We have Sir <hi>Charles Lewcas,</hi> Generall Major <hi>Porter,</hi> ſome Collo<g ref="char:EOLhyphen"/>nels, and other officers, with ſundrie of their chiefe Officers killed. The number killed to the enemie as is eſtimate, is two thouſand, and above, with fifteene hundreth priſoners, twentie piece of Canon,
+<pb facs="tcp:178798:1"/>
+               <!-- PDF PAGE 17 -->
+which was all they had, all their Amonition, all their Bagauge, ten thouſand armes, all their foot Colours, many Cornets, the horſe on the right winge were beat: My Lord <hi>Eglingtown</hi> not being well ſe<g ref="char:EOLhyphen"/>conded, Sir <hi>Thomas Fairfax</hi> commanded there in chief, a brave Com<g ref="char:EOLhyphen"/>mander, but his horſe anſwered not our expectation nor his worth, they gave ſome blame to the commanded Muſcatiers that were with him: My Lord <hi>Eglingtown</hi> commanded our horſe there, who ſhew<g ref="char:EOLhyphen"/>ed himſelfe moſt valiantly, his Son relieving his father, who w<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> far ingagded, is ſore wounded, our left wing of horſe, which was <gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>manded by Lievetenant General <hi>Cromvel,</hi> and General Major <hi>David Leſlie</hi> caried themſelves bravely, and under God was a maine occaſi<g ref="char:EOLhyphen"/>on of our victorie. I muſt not overpaſſe <hi>Mancheſters</hi> Foot, who did good ſervice under the command of Generall Major <hi>Crawfurd;</hi> Our Generall being chief Commander himſelf, Lievetenant Generall <hi>Bail<g ref="char:EOLhyphen"/>lie</hi> commanded the Vane of ours under him, ſo <hi>Fairfax</hi> and <hi>Manche<g ref="char:EOLhyphen"/>ſter</hi> of their own. So not troubling your Lordſhip further, I reſt.</p>
+            <closer>
+               <dateline>At our Leigour at <hi>York,</hi> 
+                  <date>the fifth of July, 1644.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Heere is another Letter written by a truſtie Gentle man, to another Noble and honourable Lord, in the Kingdome of <hi>Scotland.</hi>
+            </head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>AT our comming before <hi>Yorke</hi> yeſterday, the Towne was ſummoned to render to our Generall by a Trumpeter; wee had this day a fair anſwere from Sir <hi>Thomas Glenning,</hi> and the Mair of the Citie Maſter <hi>Cowper,</hi> which was neither a grant, nor a refuſall: But we hope ſince the Prince hath left them, with a ſ<gap reason="illegible: damage" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap> bodie of horſe, and our whole Caviliers is in purſute of him, <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that the Marques of <hi>Newcaſtle</hi> with our Countrey-<gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>King,</hi> and all their good Officers are gone: They will ſhortly accept of quarters, for as we underſtand, and by certaine intelligencers from <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Town this day, they have not five hundred Souldiers in the Town, b<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſide the traine Bands, and the Burgars: So if they render not upon <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> which wee heartily wiſh to prevent more bloud, wee intend by <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> aſsiſtance, to take it by ſtorme: Wee were certainly informed from one which came out of the Towne this day, That the Prince brought ſcarce in with him to the towne of his Foot (confeſſed by Sir <hi>Cha<g ref="char:EOLhyphen"/>rles Lewcas</hi> to be twelve thouſand) not five hundreth, but were ei<g ref="char:EOLhyphen"/>ther killed, or run away: The Papiſts and Biſhops, and their com<g ref="char:EOLhyphen"/>plices have all left the Town, Bag and Baggade: The greateſt loſſe we have was the ſpoiling of our Baggadge, and hor<gap reason="illegible: damage" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> battell, by our owne men that fled, and our Ba<gap reason="illegible: damage" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſes are eſtimed to be in horſe, money and clothes, abov<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> thouſand pounds Scots: I hope ſome of it ſhall be recovered, <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> loſſer my ſelfe above three thouſand merkes, and Sir <hi>James Lum<gap reason="illegible: damage" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>den</hi> two thouſand. But we heartily diſpence with the loſſe of meane ſince God hath proſpered the worke in our hands, I hope by Gods bleſsing, this blow the Prince hath gotten ſhall bee a good meanes to bring all the buſsineſſe here to a good hap<gap reason="illegible: damage" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e cloſe, to Gods glorie, (to whom only the praiſe of the worke is due) and the good of the three Kingdomes.</p>
+            <p>This battell was fought on tweſday the ſecond of <hi>July;</hi> a day ought never to be forgot in the three Kingdoms, as one of the greateſt acts of Gods great power and mercie manifeſted to us, for which we have a ſolemne thankſgiving the next Lords day: And as at is expected in all the Kingdomes will be the like, ſo ſoone as can be ex<g ref="char:EOLhyphen"/>pediently.</p>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <p>Gentle Reader, I crave your Patience concerning the drawing up of the Briggads, becauſe they were not altogether ſo perfect as I would have them: But yee ſhall have them very ſhortly God willing printed in a perfect forme.</p>
+         </div>
+         <div type="colophon">
+            <p>Printed at <hi>EDINBVRGH.</hi> by <hi>James Lindeſay,</hi> 1644.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
